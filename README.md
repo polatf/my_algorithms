@@ -1,1 +1,1 @@
-# my_algorithms
+Kendi kendime otopilot çalışmalarım
